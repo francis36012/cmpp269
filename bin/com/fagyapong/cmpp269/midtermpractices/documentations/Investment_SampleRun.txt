@@ -1,0 +1,11 @@
+What is the value of the initial investment? 1000
+What is the rate of return? 2.5
+What is the term of the investment? 5
+
+Year Interest Balance 
+=====================
+1    25.00    1025.00 
+2    25.63    1050.63 
+3    26.27    1076.90 
+4    26.92    1103.82 
+5    27.60    1131.42 

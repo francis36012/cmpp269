@@ -1,0 +1,15 @@
+Enter item (end to quit): Bananas
+Enter item (end to quit): Apples
+Enter item (end to quit): Grapes
+Enter item (end to quit): Milk
+Enter item (end to quit): Diet Coke
+Enter item (end to quit): S&V Chips
+Enter item (end to quit): end
+6 items input
+Here is the list in reverse order
+S&V Chips
+Diet Coke
+Milk
+Grapes
+Apples
+Bananas

@@ -1,0 +1,9 @@
+C:\Users\666639\courses\cmpp269s>java Gst
+Enter the retail sale amount: 10
+The GST is: $0.50
+Sale amount is: $10.50
+
+C:\Users\666639\courses\cmpp269s>java Gst
+Enter the retail sale amount: 4.99
+The GST is: $0.25
+Sale amount is: $5.24

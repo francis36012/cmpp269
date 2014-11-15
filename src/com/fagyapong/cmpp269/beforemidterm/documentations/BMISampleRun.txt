@@ -1,0 +1,14 @@
+Enter your weight (kilograms): 58
+Enter your height (centimeters): 160
+Your BMI is 22.66
+You are overweight (above the optimal)
+
+Enter your weight (kilograms): 65
+Enter your height (centimeters): 200
+Your BMI is 16.25
+You underweight (below the optimal)
+
+Enter your weight (kilograms): 90
+Enter your height (centimeters): 180
+Your BMI is 27.78
+You are overweight (above the optimal)

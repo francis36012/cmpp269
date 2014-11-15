@@ -1,0 +1,10 @@
+Enter the hours worked by 3 employees.
+Employee 1: 34
+Employee 2: 42
+Employee 3: 12.5
+The hours you entered are:
+34.0
+42.0
+12.5
+Total Hours worked = 88
+Average Hours worked = 29

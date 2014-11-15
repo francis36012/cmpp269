@@ -1,0 +1,9 @@
+Our pet food is available in three grades: A, B, and C
+Enter the food grade: A
+Enter weight (kg): 15.5
+The price of 15.5kg grade A pet food is: $2.32
+
+Our pet food is available in three grades: A, B, and C
+Enter the food grade: C
+Enter weight (kg): 6
+The price of 6.0kg grade C pet food is: $0.48

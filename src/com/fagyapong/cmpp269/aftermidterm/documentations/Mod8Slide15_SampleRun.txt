@@ -1,0 +1,6 @@
+Enter A: 12
+Enter B: 10
+Sum is 22.0
+A - B = 2.0
+A incremented is 13.0
+B decremented is 9.0

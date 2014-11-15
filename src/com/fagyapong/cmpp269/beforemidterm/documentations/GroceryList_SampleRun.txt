@@ -1,0 +1,6 @@
+Enter item (end) to quit: banana
+Enter item (end) to quit: milk
+Enter item (end) to quit: diet coke
+Enter item (end) to quit: S&V chips
+Enter item (end) to quit: end
+4 items on the grocery list.

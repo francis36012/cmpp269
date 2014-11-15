@@ -1,0 +1,11 @@
+Enter amount: 400000
+Enter the term in years: 4
+Amount:        $400000.0
+Term:          4 years
+Interest Rate: 2.5%
+
+Enter amount: 400000
+Enter the term in years: 4
+Amount:        $9999.0
+Term:          4 years
+Interest Rate: 1.5%

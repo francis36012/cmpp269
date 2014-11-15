@@ -1,0 +1,7 @@
+Territory             Population
+================================
+Northwest Territories      42514
+Yukon                      31530
+Nunavut                    31152
+================================
+Total                     105196

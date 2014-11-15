@@ -1,0 +1,4 @@
+Enter amount of money left: 28
+Check what's on TV
+Enter amount of money left: 35
+Text Marilyn and go to the movie

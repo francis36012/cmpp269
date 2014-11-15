@@ -1,0 +1,6 @@
+Enter 3 numbers: 60 70 80
+The average is 70.0
+Do you want to go again (true or false)? true
+Enter 3 numbers: 85 81 78
+The average is 81.3
+Do you want to go again (true or false)? false

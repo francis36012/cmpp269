@@ -1,0 +1,6 @@
+C:\Users\666639\Documents\school\cmpp269_h\source>java Mod2Slide37
+Population of Calgary = 1020332
+Height = 162
+Mortgage amount = $427341.33
+Bank Balance = $533.64
+Population of Earth = 6707363606

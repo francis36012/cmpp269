@@ -1,0 +1,261 @@
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:1
+Paid Till: 10-30 9:31
+Current Charge: $1.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:1
+Paid Till: 10-30 10:1
+Current Charge: $2.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: p
+Enter Credit Card Number: 1356-4856-1682-7891
+Enter 3 digit security code from back of Credit Card: 295
+-------------------------------------------------------
+Pay and Go Parking
+Lot Location: 123 Main St,
+Honolulu, Hawaii
+-------------------------------------------------------
+Current Time: 10-30 9:1
+Paid Till: 10-30 10:1
+Total charged to Credit Card: $2.00
+=======================================================
+Tear off receipt and place on dash
+Press any key to continue...
+
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 9:3
+Current Charge: $0.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 9:33
+Current Charge: $1.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 10:3
+Current Charge: $2.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 10:33
+Current Charge: $3.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 11:3
+Current Charge: $4.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: r
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 9:3
+Current Charge: $0.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 9:33
+Current Charge: $1.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 10:3
+Current Charge: $2.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 10:33
+Current Charge: $3.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 11:3
+Current Charge: $4.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 11:33
+Current Charge: $5.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 12:3
+Current Charge: $6.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: p
+Enter Credit Card Number: 7958-2654-3697-5894
+Enter 3 digit security code from back of Credit Card: 364
+-------------------------------------------------------
+Pay and Go Parking
+Lot Location: 123 Main St,
+Honolulu, Hawaii
+-------------------------------------------------------
+Current Time: 10-30 9:3
+Paid Till: 10-30 12:3
+Total charged to Credit Card: $6.00
+=======================================================
+Tear off receipt and place on dash
+Press any key to continue...
+
+-------------------------------------------------------
+Current Time: 10-30 9:4
+Paid Till: 10-30 9:4
+Current Charge: $0.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:4
+Paid Till: 10-30 9:34
+Current Charge: $1.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:4
+Paid Till: 10-30 10:4
+Current Charge: $2.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: +
+-------------------------------------------------------
+Current Time: 10-30 9:4
+Paid Till: 10-30 10:34
+Current Charge: $3.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: p
+Enter Credit Card Number: 7892-9877-2368-7895
+Enter 3 digit security code from back of Credit Card: 185
+-------------------------------------------------------
+Pay and Go Parking
+Lot Location: 123 Main St,
+Honolulu, Hawaii
+-------------------------------------------------------
+Current Time: 10-30 9:4
+Paid Till: 10-30 10:34
+Total charged to Credit Card: $3.00
+=======================================================
+Tear off receipt and place on dash
+Press any key to continue...
+
+-------------------------------------------------------
+Current Time: 10-30 9:4
+Paid Till: 10-30 9:4
+Current Charge: $0.00
+-------------------------------------------------------
+Welcome to Pay and Go Parking
++ to add 30 minutes ($1.00 charge)
+p to print the ticket
+r to restart the program
+x to exit the program
+Please enter your selection: x
+
+Totals for Pay and Go Parking
+=============================
+Totals               $11.00

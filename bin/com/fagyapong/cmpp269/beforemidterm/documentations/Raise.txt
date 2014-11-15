@@ -1,0 +1,4 @@
+C:\Users\666639\Documents\school\cmpp269_h\source>java Raise
+New Salary is $12.0
+
+C:\Users\666639\Documents\school\cmpp269_h\source>

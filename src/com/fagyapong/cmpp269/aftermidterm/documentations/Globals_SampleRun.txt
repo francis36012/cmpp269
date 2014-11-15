@@ -1,0 +1,6 @@
+Enter A: 2
+Enter B: 4
+Sum is 6.0
+A - B = -2.0
+A * B = 8.0
+A ^ B = 16.0

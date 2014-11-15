@@ -1,0 +1,6 @@
+What is the employee's name: Super Salesman
+How many hours worked? 10
+Enter the total value of monthly plans sold today: 1100
+Hourly Salary = $100.0
+Monthly Commision = $16.75
+Total = $116.75

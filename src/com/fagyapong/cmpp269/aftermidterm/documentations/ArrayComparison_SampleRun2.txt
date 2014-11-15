@@ -1,0 +1,13 @@
+How many elements for A? 4
+How many elements for B? 4
+Enter the elements for Array A
+Enter element: 10
+Enter element: 12
+Enter element: 55
+Enter element: 33
+Enter the elements for Array B
+Enter element: 10
+Enter element: 12
+Enter element: 55
+Enter element: 33
+The arrays are the same

@@ -1,0 +1,6 @@
+C:\Users\666639\Documents\school\cmpp269_h\source>java Cashier
+Enter amount of sale: 10.00
+        GST $0.5
+        Total $10.50
+Enter amount tendered: 11
+        Change $0.50

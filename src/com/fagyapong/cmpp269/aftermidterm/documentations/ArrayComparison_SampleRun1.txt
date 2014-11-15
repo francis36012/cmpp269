@@ -1,0 +1,10 @@
+How many elements for A? 2
+How many elements for B? 3
+Enter the elements for Array A
+Enter element: 5
+Enter element: 6
+Enter the elements for Array B
+Enter element: 5
+Enter element: 6
+Enter element: 7
+The arrays are different
