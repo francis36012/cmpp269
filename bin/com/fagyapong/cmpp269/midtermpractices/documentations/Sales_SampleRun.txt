@@ -1,6 +1,0 @@
-Enter the price: 699.90
-
-Original Price: $699.90
-Discount: $55.99
-GST: $32.20
-Final Price: $676.11

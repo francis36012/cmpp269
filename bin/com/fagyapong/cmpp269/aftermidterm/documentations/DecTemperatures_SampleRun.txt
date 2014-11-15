@@ -1,3 +1,0 @@
-Average is 3.95
-Highest temperature is 11.30
-Number of days above freezing = 24

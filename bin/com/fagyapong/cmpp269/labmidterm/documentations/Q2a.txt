@@ -1,6 +1,0 @@
-What is the employee's name: Harvey
-How many hours worked? 5
-Enter the total value of monthly plans sold today: 500
-Hourly Salary = $50.0
-Monthly Commision = $7.5
-Total = $57.5

@@ -1,3 +1,0 @@
-Enter Temperature A: 15
-Enter Temperature B: -10
-The biggest temperature was 15.0

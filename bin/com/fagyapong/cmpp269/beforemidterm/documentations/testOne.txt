@@ -1,4 +1,0 @@
-What is your name? Harvey
-How many hours did you work this week? 45
-What is your hourly pay rate? 10.5
-Harvey's gross pay is $472.5

@@ -1,6 +1,0 @@
-Enter client name: Movie Man
-Enter # of Gb used: 100
-Base charge = $20.0
-Data charge = $10.0
-GST = $1.5
-Total = $31.5

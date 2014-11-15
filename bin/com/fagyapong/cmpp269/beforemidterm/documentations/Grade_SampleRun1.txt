@@ -1,2 +1,0 @@
-Enter the grade: 95
-Letter grade is A

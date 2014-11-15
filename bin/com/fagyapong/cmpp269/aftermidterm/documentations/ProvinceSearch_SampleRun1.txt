@@ -1,4 +1,0 @@
-Loading province data...
-Done.
-Enter the province to find: Alberta
-The population of Alberta is 3512368
