@@ -31,13 +31,15 @@ public class Mod8Slide15 {
 	}
 	public static double subtract(double a, double b) {
 		double difference;
-		difference = a - b;
+		difference =  a - b;
 		return difference;
 	}
 	public static double increment(double a) {
-		return ++a;
+		double inc = a + 1;
+		return inc;
 	}
 	public static double decrement(double a) {
-		return --a;
+		double dec = a - 1;
+		return dec;
 	}
 }

@@ -1,0 +1,7 @@
+Enter grocery item 'quit' to quit: 3 Diet Cokes
+Next item: 2 S&V Chips
+Next item: 4 Bread (2 for 1)
+Next item: AA batteries
+Next item: quit
+Here is the grocery list
+[3 Diet Cokes, 2 S&V Chips, 4 Bread (2 for 1), AA batteries]

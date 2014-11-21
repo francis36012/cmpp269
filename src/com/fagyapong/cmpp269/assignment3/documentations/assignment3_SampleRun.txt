@@ -1,0 +1,27 @@
+Enter the data filename: c:/temp/cellphonedata.txt
+Cellnet Account Summary: Oct 10, 2013
+Account Number: 5-9934-8732
+Invoice Number: 5-9934-8732-08
+
+
+Harvey Wallbanger
+123 Main St
+Calgary, Alberta
+T2C 4D5
+Regular charges
+                   Description       Cost
+     Cellnet usage (see below)      29.40
+                   Monthly Fee      15.00
+             System Access Fee       6.95
+    9-1-1 Emergency Access Fee       0.50
+              Total Before Tax      51.85
+                           GST       2.59
+               Total After Tax      54.44
+Cellnet Usage charges
+                   Description             Minutes    Cost
+      Regular Minutes included                  50    0.00
+             Minutes over plan                 130   26.00
+                 Text Received                  23    0.00
+          Text sent - included                  20    0.00
+             Texts send - over                  34    3.40
+Cellnet usage summary ending Oct 10, 2013

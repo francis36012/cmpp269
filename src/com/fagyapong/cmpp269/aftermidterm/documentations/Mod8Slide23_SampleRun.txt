@@ -1,0 +1,16 @@
+The grades array before the increase.
+array[0] = 50.00
+array[1] = 60.00
+array[2] = 70.00
+array[3] = 80.00
+array[4] = 90.00
+array[5] = 100.00
+Enter the percentage increase: 10
+Grades after
+array[0] = 55.00
+array[1] = 66.00
+array[2] = 77.00
+array[3] = 88.00
+array[4] = 99.00
+array[5] = 100.00
+Number of A+ = 2

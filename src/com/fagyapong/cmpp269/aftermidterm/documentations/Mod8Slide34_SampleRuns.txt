@@ -1,0 +1,5 @@
+Enter the grade: 45
+45.0 is a valid grade.
+
+Enter the grade: 110
+110.0 is out of range.

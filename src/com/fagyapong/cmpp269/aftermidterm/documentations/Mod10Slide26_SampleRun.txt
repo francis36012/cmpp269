@@ -1,0 +1,104 @@
+Call Center System
+
+1) Add a number
+2) Retrieve next number
+3) Show all numbers waiting for callback
+4) Exit
+Enter your option: 1
+Enter callback #: 403-220-4715
+Call Center System
+
+1) Add a number
+2) Retrieve next number
+3) Show all numbers waiting for callback
+4) Exit
+Enter your option: 1
+Enter callback #: 403-982-8372
+Call Center System
+
+1) Add a number
+2) Retrieve next number
+3) Show all numbers waiting for callback
+4) Exit
+Enter your option: 3
+Callback list
+
+Position       Number
+1        403-220-4715
+2        403-982-8372
+
+Call Center System
+
+1) Add a number
+2) Retrieve next number
+3) Show all numbers waiting for callback
+4) Exit
+Enter your option: 1
+Enter callback #: 403-876-1123
+Call Center System
+
+1) Add a number
+2) Retrieve next number
+3) Show all numbers waiting for callback
+4) Exit
+Enter your option: 2
+Next phone number to call: 403-220-4715
+Call Center System
+
+1) Add a number
+2) Retrieve next number
+3) Show all numbers waiting for callback
+4) Exit
+Enter your option: 3
+Callback list
+
+Position       Number
+1        403-982-8372
+2        403-876-1123
+
+Call Center System
+
+1) Add a number
+2) Retrieve next number
+3) Show all numbers waiting for callback
+4) Exit
+Enter your option: 2
+Next phone number to call: 403-982-8372
+Call Center System
+
+1) Add a number
+2) Retrieve next number
+3) Show all numbers waiting for callback
+4) Exit
+Enter your option: 3
+Callback list
+
+Position       Number
+1        403-876-1123
+
+Call Center System
+
+1) Add a number
+2) Retrieve next number
+3) Show all numbers waiting for callback
+4) Exit
+Enter your option: 2
+Next phone number to call: 403-876-1123
+Call Center System
+
+1) Add a number
+2) Retrieve next number
+3) Show all numbers waiting for callback
+4) Exit
+Enter your option: 3
+Callback list
+
+Position       Number
+
+Call Center System
+
+1) Add a number
+2) Retrieve next number
+3) Show all numbers waiting for callback
+4) Exit
+Enter your option: 4

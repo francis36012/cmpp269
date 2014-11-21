@@ -14,6 +14,7 @@ package com.fagyapong.cmpp269.assignment4.documentations.ass4_oo;
 import java.util.Scanner;
 import java.io.*;
 // Make this class serialable so that it can be stored in a binary file
+@SuppressWarnings("unused")
 public class Car {
     private String plate;
     private String ccNumber;

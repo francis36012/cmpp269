@@ -17,6 +17,7 @@ import java.io.*;
 import java.util.*;
 
 // make this class Serializable and its dependent classes (Car)
+@SuppressWarnings("unused")
 public class ParkingLot {
 	private ArrayList<Car> parkingLot;
 	private static String plateListFile = "c:/temp/plateList.txt";

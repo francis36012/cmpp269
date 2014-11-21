@@ -76,14 +76,12 @@ public class CellPhoneBills {
 
 		// fields for incoming and outgoing calls
 		String dateOfCall;
-		String dayOfWeekOfCall;
 		String hourOfCall;
 		String minuteOfCall;
 		int lengthOfCall;
 
 		// fields for incoming and outgoing texts
 		String dateOfText;
-		String dayOfWeekOfText;
 		String hourOfText;
 		String minuteOfText;
 		
@@ -119,28 +117,24 @@ public class CellPhoneBills {
 			switch (usageCode) {
 			case "O":
 				dateOfCall = fileRead.next();
-				dayOfWeekOfCall = fileRead.next();
 				hourOfCall = fileRead.next();
 				minuteOfCall = fileRead.next();
 				outgoingCallsLength += Double.parseDouble(fileRead.next());
 				break;
 			case "I":
 				dateOfCall = fileRead.next();
-				dayOfWeekOfCall = fileRead.next();
 				hourOfCall = fileRead.next();
 				minuteOfCall = fileRead.next();
 				incomingCallsLength += Double.parseDouble(fileRead.next());
 				break;
 			case "T":
 				dateOfText = fileRead.next();
-				dayOfWeekOfText = fileRead.next();
 				hourOfText = fileRead.next();
 				minuteOfText = fileRead.next();
 				outgoingTexts += 1;
 				break;
 			case "X":
 				dateOfText = fileRead.next();
-				dayOfWeekOfText = fileRead.next();
 				hourOfText = fileRead.next();
 				minuteOfText = fileRead.next();
 				incomingTexts += 1;

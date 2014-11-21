@@ -1,0 +1,27 @@
+Enter the data filename: c:/temp/cellphonedata2.txt
+Cellnet Account Summary: Oct 12, 2013
+Account Number: 403-220-4918
+Invoice Number: 403-220-4918-08
+
+
+I.M. Lonely
+344 Rivercrest Circle SE
+Calgary, Alberta
+T2C 4D6
+Regular charges
+                   Description       Cost
+     Cellnet usage (see below)    1043.60
+                   Monthly Fee      15.00
+             System Access Fee       6.95
+    9-1-1 Emergency Access Fee       0.50
+              Total Before Tax    1066.05
+                           GST      53.30
+               Total After Tax    1119.35
+Cellnet Usage charges
+                   Description             Minutes    Cost
+      Regular Minutes included                  50    0.00
+             Minutes over plan                5215 1043.00
+                 Text Received                   9    0.00
+          Text sent - included                  20    0.00
+             Texts send - over                   6    0.60
+Cellnet usage summary ending Oct 12, 2013
