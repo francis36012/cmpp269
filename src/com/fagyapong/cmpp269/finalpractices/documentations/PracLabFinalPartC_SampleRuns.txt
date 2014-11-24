@@ -1,0 +1,7 @@
+Enter a value: 2.5
+Enter an operation, ++ for increment, -- for decrement, and x3 for triple: ++
+Result is 3.5
+
+Enter a value: 4.0
+Enter an operation, ++ for increment, -- for decrement, and x3 for triple: x3
+Result is 12.0

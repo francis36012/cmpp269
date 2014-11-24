@@ -1,0 +1,6 @@
+Enter the filename: c:/temp/cellphone.txt
+Cell bill threshold: 40.00
+All cell phones bills at or above the threshold amount.
+         Number     Amount
+   403-983-1942      46.44
+   403-982-1952      50.35

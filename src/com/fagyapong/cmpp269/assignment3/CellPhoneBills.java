@@ -23,7 +23,7 @@
  * Output:
  * 		Summary of usage and charges calculated from the data file
  *
- * @author Francis Agyapong
+ * @author Francis Agyapong, Emmanuel Momjang
  * @version November 2014
  */
 package com.fagyapong.cmpp269.assignment3;

@@ -1,0 +1,9 @@
+$10,000 withdraw from chequing failed
+Balance in chequing is $600.00
+Balance in saving is $690.00
+Test of toString()
+Name: Sara Jones
+Cheque Acct #: 1
+	Balance = $600.00
+Saving Acct #: 2
+	Balance = $690.00

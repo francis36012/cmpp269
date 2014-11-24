@@ -1,0 +1,3 @@
+Enter a string: this is the #1 test of 2.
+Number of letters = 15
+Number of digits = 2

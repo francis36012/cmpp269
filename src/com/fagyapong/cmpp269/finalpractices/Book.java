@@ -6,9 +6,9 @@ public class Book {
 	int pages;
 	int bookmark;
 	
-	public Book(String name, int pages) {
-		this.name = name;
-		this.pages = pages;
+	public Book(String bkName, int bkPages) {
+		name = bkName;
+		pages = bkPages;
 	}
 	
 	public void setBookmark(int pageNumber) {

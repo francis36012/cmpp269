@@ -1,0 +1,178 @@
+Enter Customer Name: Harvey Wallbanger
+Enter Chq Acct Num: 101
+Enter Chq Acct Balance: 100
+Enter Saving Acct Num: 102
+Enter Saving Acct Balance: 1000
+Current status: Name: Harvey Wallbanger
+Cheque Acct #: 101
+	Balance = $100.00
+Saving Acct #: 102
+	Balance = $1000.00
+1. Withdraw from Chequing
+2. Deposit to Chequing
+3. Withdraw from Saving
+4. Deposit to Saving
+5. Transfer from Saving to Chequing
+6. Transfer from Chequing to Saving
+7. Exit
+Enter Selection: 1
+Amount to withdraw: 200
+Insufficient Funds in Chequing!
+Name: Harvey Wallbanger
+Cheque Acct #: 101
+	Balance = $100.00
+Saving Acct #: 102
+	Balance = $1000.00
+
+1. Withdraw from Chequing
+2. Deposit to Chequing
+3. Withdraw from Saving
+4. Deposit to Saving
+5. Transfer from Saving to Chequing
+6. Transfer from Chequing to Saving
+7. Exit
+Enter Selection: 1
+Amount to withdraw: 50
+Name: Harvey Wallbanger
+Cheque Acct #: 101
+	Balance = $50.00
+Saving Acct #: 102
+	Balance = $1000.00
+
+1. Withdraw from Chequing
+2. Deposit to Chequing
+3. Withdraw from Saving
+4. Deposit to Saving
+5. Transfer from Saving to Chequing
+6. Transfer from Chequing to Saving
+7. Exit
+Enter Selection: 2
+Amount to chequing: 25
+Name: Harvey Wallbanger
+Cheque Acct #: 101
+	Balance = $75.00
+Saving Acct #: 102
+	Balance = $1000.00
+
+1. Withdraw from Chequing
+2. Deposit to Chequing
+3. Withdraw from Saving
+4. Deposit to Saving
+5. Transfer from Saving to Chequing
+6. Transfer from Chequing to Saving
+7. Exit
+Enter Selection: 3
+Amount to withdraw: 2000
+Insufficient Funds in Savings!
+Name: Harvey Wallbanger
+Cheque Acct #: 101
+	Balance = $75.00
+Saving Acct #: 102
+	Balance = $1000.00
+
+1. Withdraw from Chequing
+2. Deposit to Chequing
+3. Withdraw from Saving
+4. Deposit to Saving
+5. Transfer from Saving to Chequing
+6. Transfer from Chequing to Saving
+7. Exit
+Enter Selection: 3
+Amount to withdraw: 100
+Name: Harvey Wallbanger
+Cheque Acct #: 101
+	Balance = $75.00
+Saving Acct #: 102
+	Balance = $900.00
+
+1. Withdraw from Chequing
+2. Deposit to Chequing
+3. Withdraw from Saving
+4. Deposit to Saving
+5. Transfer from Saving to Chequing
+6. Transfer from Chequing to Saving
+7. Exit
+Enter Selection: 4
+Amount to Savings: 50
+Name: Harvey Wallbanger
+Cheque Acct #: 101
+	Balance = $75.00
+Saving Acct #: 102
+	Balance = $950.00
+
+1. Withdraw from Chequing
+2. Deposit to Chequing
+3. Withdraw from Saving
+4. Deposit to Saving
+5. Transfer from Saving to Chequing
+6. Transfer from Chequing to Saving
+7. Exit
+Enter Selection: 5
+Amount to transfer from savings to chequing: 1000
+Insufficient funds in savings to transfer.
+Name: Harvey Wallbanger
+Cheque Acct #: 101
+	Balance = $75.00
+Saving Acct #: 102
+	Balance = $950.00
+
+1. Withdraw from Chequing
+2. Deposit to Chequing
+3. Withdraw from Saving
+4. Deposit to Saving
+5. Transfer from Saving to Chequing
+6. Transfer from Chequing to Saving
+7. Exit
+Enter Selection: 5
+Amount to transfer from savings to chequing: 25
+Name: Harvey Wallbanger
+Cheque Acct #: 101
+	Balance = $100.00
+Saving Acct #: 102
+	Balance = $925.00
+
+1. Withdraw from Chequing
+2. Deposit to Chequing
+3. Withdraw from Saving
+4. Deposit to Saving
+5. Transfer from Saving to Chequing
+6. Transfer from Chequing to Saving
+7. Exit
+Enter Selection: 6
+Amount to transfer from chequing to saving: 200
+Insufficient funds in chequing to transfer
+Name: Harvey Wallbanger
+Cheque Acct #: 101
+	Balance = $100.00
+Saving Acct #: 102
+	Balance = $925.00
+
+1. Withdraw from Chequing
+2. Deposit to Chequing
+3. Withdraw from Saving
+4. Deposit to Saving
+5. Transfer from Saving to Chequing
+6. Transfer from Chequing to Saving
+7. Exit
+Enter Selection: 6
+Amount to transfer from chequing to saving: 20
+Name: Harvey Wallbanger
+Cheque Acct #: 101
+	Balance = $80.00
+Saving Acct #: 102
+	Balance = $945.00
+
+1. Withdraw from Chequing
+2. Deposit to Chequing
+3. Withdraw from Saving
+4. Deposit to Saving
+5. Transfer from Saving to Chequing
+6. Transfer from Chequing to Saving
+7. Exit
+Enter Selection: 7
+Final Balances
+Name: Harvey Wallbanger
+Cheque Acct #: 101
+	Balance = $80.00
+Saving Acct #: 102
+	Balance = $945.00
