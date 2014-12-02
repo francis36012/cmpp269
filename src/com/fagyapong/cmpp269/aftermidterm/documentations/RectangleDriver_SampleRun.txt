@@ -1,0 +1,8 @@
+Apartment Square Footage Report
+Kitchen: [ 11.0 x 14.0 ]
+Area = 154.0
+Den: [ 8.0 x 10.0 ]
+Area = 80.0
+Bathroom: [ 5.0 x 8.0 ]
+Area = 40.0
+Total area is 274 sq ft

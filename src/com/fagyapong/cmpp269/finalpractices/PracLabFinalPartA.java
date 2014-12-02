@@ -1,3 +1,17 @@
+/**
+ * Purpose: Read a cellphone bills file and print out bills that are
+ * above the threshold amount.
+ * 
+ * Input: The threshold amount.
+ * 
+ * Processing: Read every entry in the file and compare it with the threshold
+ * amount, if the current entry is above the threshold amount, print it.
+ * 
+ * Output: Print the entries that are above the threshold amount.
+ * 
+ * @author Francis Agyapong
+ * @date December, 2014
+ */
 package com.fagyapong.cmpp269.finalpractices;
 
 import java.util.*;

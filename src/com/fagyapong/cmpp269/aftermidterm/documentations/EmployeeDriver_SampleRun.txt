@@ -1,0 +1,12 @@
+ABC Payroll System
+Enter Name: Harvey Wallbanger
+Rate of Pay: 11.25
+Hours for Monday: 0
+Hours for Tuesday: 7
+Hours for Wednesday: 2
+Hours for Thursday: 4
+Hours for Friday: 4
+Hours for Saturday: 8
+Hours for Sunday: 0
+Name: Harvey Wallbanger
+Hours: 25.0 Rate = $11.25 Gross Pay = $281.25

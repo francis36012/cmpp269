@@ -1,3 +1,18 @@
+/**
+ * Purpose: Read in a number and perform an arithmetic operation on the read number
+ * 
+ * Input: A number to perform arithmetic operations(increment, decrement, triple) on.
+ * 
+ * Processing: When the chosen operation is, increment, add 1 to the number, if it is
+ * decrement subtract 1 from the input number, and when it x3, multiply input number by
+ * 3.
+ * 
+ * Output: A number that is the result of performing the chosen arithmetic operation on the
+ * input number
+ * 
+ * @author Francis Agyapong
+ * @version December, 2014
+ */
 package com.fagyapong.cmpp269.finalpractices;
 
 import java.util.*;

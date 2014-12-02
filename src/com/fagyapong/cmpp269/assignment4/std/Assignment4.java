@@ -1,4 +1,4 @@
-package com.fagyapong.cmpp269.assignment4.documentations.ass4_std;
+package com.fagyapong.cmpp269.assignment4.std;
 
 import java.io.*;
 /**
@@ -7,7 +7,14 @@ import java.io.*;
 import java.util.*;
 
 @SuppressWarnings("unused")
-public class ass4ParkingStart {
+public class Assignment4 {
+
+	static ArrayList<String> plates = new ArrayList<String>();
+	static ArrayList<String> ccNumbers = new ArrayList<String>();
+	
+	final static String PLATE_FILE_LOCATION = "c:/temp/registered.txt";
+	final static String CHARGE_FILE_LOCATION = "c:/temp/charges.txt";
+
 	public static void main(String[] args) throws IOException {
 		Scanner k = new Scanner(System.in);
 
@@ -76,5 +83,31 @@ public class ass4ParkingStart {
 		return s;
 
 	}
-	// Write all your functions here!
+	
+	static public void plateList(ArrayList<String> _plates) throws IOException {
+		Date now = new Date();
+		File plateFile = new File(PLATE_FILE_LOCATION);
+		PrintWriter fileWriter = new PrintWriter(plateFile);
+		
+		fileWriter.printf("Plate List for %s\n\n", now);
+		fileWriter.printf("%15s\n", "Plate");
+		fileWriter.printf("===============");
+		for (String plate : _plates) {
+			fileWriter.printf("%15s\n", plate);
+		}
+		
+		fileWriter.flush();
+		fileWriter.close();
+	}
+	
+	static public int addCars(ArrayList<String> _plates, ArrayList<String> _ccNumbers) {
+		
+		
+		int newNum = _plates.size() + 1;
+		return newNum;
+	}
+	
+	static public void clearCars() {
+		
+	}
 }

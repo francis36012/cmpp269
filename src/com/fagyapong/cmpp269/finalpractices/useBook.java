@@ -1,3 +1,4 @@
+// A driver program for the Book class
 package com.fagyapong.cmpp269.finalpractices;
 
 import java.util.Scanner;

@@ -1,3 +1,15 @@
+/**
+ * Purpose: Read in a string and print out the number of numbers and digits
+ * in the string.
+ * 
+ * Input: A string
+ * 
+ * Processing: Go through the string, and for each character check whether it
+ * is a digit or a letter, and increment the number of digits or letters as
+ * appropriate
+ * 
+ *  Output: The number of digits and letters in the input string.
+ */
 package com.fagyapong.cmpp269.finalpractices;
 
 import java.util.*;

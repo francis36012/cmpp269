@@ -31,7 +31,7 @@ public class ATM {
 		savAcctBal = Double.parseDouble(keyboard.nextLine());
 		
 		BankCustomer b = new BankCustomer(customerName, chqAcctNum, chqAcctBal, savAcctNum, savAcctBal);
-		System.out.printf("Current status: %s", b.toString());
+		System.out.printf("Current status: %s", b);
 		
 		printMenu();
 		System.out.printf("Enter Selection: ");
@@ -98,20 +98,20 @@ public class ATM {
     	switch (accountType) {
     		case 1:
     			if (customer.withdrawChequing(amount)) {
-    				System.out.printf("%s\n", customer.toString());
+    				System.out.printf("%s\n", customer);
     			}
     			else {
     				System.out.printf("Insufficient Funds in Chequing!\n");
-    				System.out.printf("%s\n", customer.toString());
+    				System.out.printf("%s\n", customer);
     			}
     			break;
     		case 2:
     			if (customer.withdrawSaving(amount)) {
-    				System.out.printf("%s\n", customer.toString());
+    				System.out.printf("%s\n", customer);
     			}
     			else {
     				System.out.printf("Insufficient Funds in Savings!\n");
-    				System.out.printf("%s\n", customer.toString());
+    				System.out.printf("%s\n", customer);
     			}
     			break;
     	}
@@ -126,11 +126,11 @@ public class ATM {
     	switch (accountType) {
     		case 1:
     			customer.depositChequing(amount);
-    			System.out.printf("%s\n", customer.toString());
+    			System.out.printf("%s\n", customer);
     			break;
     		case 2:
     			customer.depositSaving(amount);
-    			System.out.printf("%s\n", customer.toString());
+    			System.out.printf("%s\n", customer);
     			break;
     	}
     }
@@ -145,20 +145,20 @@ public class ATM {
     	switch (sourceAcctType) {
     		case 1:
     			if (customer.transferToSaving(amount)) {
-    				System.out.printf("%s\n", customer.toString());
+    				System.out.printf("%s\n", customer);
     			}
     			else {
     				System.out.printf("Insufficient funds in chequing to transfer\n");
-    				System.out.printf("%s\n", customer.toString());
+    				System.out.printf("%s\n", customer);
     			}
     			break;
     		case 2:
     			if (customer.transferToChequing(amount)) {
-    				System.out.printf("%s\n", customer.toString());
+    				System.out.printf("%s\n", customer);
     			}
     			else {
     				System.out.printf("Insufficient funds in savings to transfer.\n");
-    				System.out.printf("%s\n", customer.toString());
+    				System.out.printf("%s\n", customer);
     			}
     			break;
     	}
