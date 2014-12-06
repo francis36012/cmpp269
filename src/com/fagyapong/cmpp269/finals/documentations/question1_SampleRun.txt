@@ -1,0 +1,3 @@
+Enter the filename: c:/temp/grades.txt
+Course with the lowest grade:
+CPNT201: 57.60
