@@ -41,7 +41,7 @@ class cellPhone {
 		// used to format the currency
 		DecimalFormat currency = new DecimalFormat("$#0.0");
 
-		String phoneInfo = "[ Pricing for Moto G\n" +
+		String phoneInfo = "[ Pricing for " + this.modelName + "\n" +
 						   "  Two year " + currency.format(this.twoYearLeasePrice) + "\n" +
 						   "  One year " + currency.format(this.oneYearLeasePrice) + "\n" +
 						   "  Outright " + currency.format(this.outrightPrice) + "]\n";
